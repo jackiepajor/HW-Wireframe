@@ -1,0 +1,58 @@
+* {
+    box-sizing: border-box;
+    text-align: center;
+}
+
+header {
+    background: #ccc;
+    padding: 20px;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+section {
+    padding:
+}
+
+
+#left {
+    background-color: #666;
+    color: white;
+    width: 33%;
+    float: left;
+}
+
+#middle {
+    background-color: #888;
+    color: white;
+    width: 33%;
+    float: left;
+    
+}
+
+#right {
+    background-color: #666;
+    color: white;
+    width: 33%;
+    float: left;
+}
+
+#full {
+    clear: both;
+    background-color: #eee;
+    overflow: auto;
+}
+
+#div {
+    background-color: #6ea3da;
+}
+
+aside {
+    background-color: #fff;
+}
+
+
+
+#footer {
+    background-color: #ccc;
+}
